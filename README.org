@@ -1,0 +1,15 @@
+Inherited by descent
+
+Detecting IBDs, collaboration with https://github.com/DomNelson
+
+*** TODOs
+
+- Apply some optimal segmentation model like PeakSegJoint? For a data
+  set with S total samples, say there is exactly one common IBD region
+  across K samples. What is the most likely location of that IBD?
+
+*** 2 Nov 2015
+
+Downloaded some genetic and pedigree data, some missing IDs in
+correspondence table, emailed claudiamoreau1@gmail.com to find out
+why.
